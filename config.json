@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["6289509395213@s.whatsapp.net"],
+  "ownerName": ["Cristian"],
+  "botName": "CRSH",
+  "website": "-",
+  "donasiDana": "08881642204",
+  "sessionName": "session",
+  "pathimg": "./media/neff.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 50,
+	"user": 30
+  }
+}
